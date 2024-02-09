@@ -8,8 +8,6 @@ Unpacking the repo of Huggingface-Transformers.
 
 [example/pytorch/language-modeling/run_clm_jl.py](examples/pytorch/language-modeling/)
 
-In this file, re-organize the files in a clean way. 
-
 # Lesson 2: gpt2 model
 
 [src/transformers/models/gpt2/modeling_gpt2_jl.py](src/transformers/models/gpt2/modeling_gpt2.py)
